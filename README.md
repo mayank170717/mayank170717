@@ -1,16 +1,27 @@
-## Hi there 👋
+# 👋 Hey there, I'm **Mayank**
 
-<!--
-**mayank170717/mayank170717** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **DevOps Engineer | Azure | Terraform | Cloud Automation**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+🔧 Highly experienced IT professional  
+☁️ Specializing in **Azure Infrastructure & Terraform**  
+🔁 CI/CD | IaC | Cloud Migrations | DR Strategy  
+👥 Leading global teams  
+⚙️ Automating for speed, scale & reliability
+
+---
+
+## 🛠️ Tech Stack
+
+☁️ **Cloud**: Azure  
+📜 **IaC**: Terraform  
+🔁 **CI/CD**: Azure DevOps, Git  
+🖥️ **Infra**: VMware, Zerto, Windows Server  
+⚙️ **Tools**: ServiceNow, PowerShell
+
+---
+
+> ⚡ Automate. Innovate. Scale.
